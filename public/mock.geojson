@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "shape": "Rectangle",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [139.577179, 35.559602],
+                    [139.904709, 35.559602],
+                    [139.904709, 35.794425],
+                    [139.577179, 35.794425],
+                    [139.577179, 35.559602]
+                ]
+            ]
+        },
+        "id": "caddcfb0-b094-4f05-9b5e-311dfdbe3e20"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Polygon",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [139.576492, 35.398006],
+                    [139.706268, 35.258516],
+                    [139.923248, 35.43326],
+                    [139.75296, 35.53502],
+                    [139.576492, 35.398006]
+                ]
+            ]
+        },
+        "id": "46f73e9f-fbda-4607-9155-e9b0eb5fe94e"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.630051, 35.901844]
+        },
+        "id": "5fa91f8a-7a86-4802-b236-7b1af51a7c3f"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.702835, 35.96189]
+        },
+        "id": "c78cfe4c-20cf-48cb-8159-4ba46bb6c677"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.824371, 35.903512]
+        },
+        "id": "450ec8ea-8662-49e3-ad19-5922e1b9eac3"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Circle",
+            "radius": 3303.111968097871,
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.573059, 35.836742]
+        },
+        "id": "6d351d23-6f79-4902-a429-ddcbb58af3b2"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "CircleMarker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.703522, 35.844535]
+        },
+        "id": "bdb7eb59-248d-49ba-8e72-e943456f646b"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "CircleMarker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.761887, 35.855666]
+        },
+        "id": "0093837b-abb4-4548-bb12-3cf0248d8f2e"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "CircleMarker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.86351, 35.857335]
+        },
+        "id": "e19842ed-6987-4114-936c-ad75f007a121"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "CircleMarker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.878616, 35.830062]
+        },
+        "id": "c2a9b0dc-4c1c-4ffc-9590-532211cc0bc4"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "CircleMarker",
+            "name": "Unnamed Layer",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [139.927368, 35.837855]
+        },
+        "id": "83700fc2-103b-4573-970f-4190267f201e"
+    }]
+}
